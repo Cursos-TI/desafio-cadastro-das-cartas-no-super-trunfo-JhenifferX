@@ -22,29 +22,31 @@ int main(){
 
   // Inicializando as variáveis
 
-  printf("Digite o estado: ");
+  printf("Digite o estado: \n");
   scanf("%s", &estado);
 
 
-  printf("Digite o código: ");
+  printf("Digite o código: \n");
   scanf("%s", &codigo);
   
 
-  printf("Digite o nome da cidade: ");
+  printf("Digite o nome da cidade: \n");
   scanf("%s", &nomedacidade);
 
 
-  printf("Digite a população: ");
+  printf("Digite a população: \n");
   scanf("%d", &populacao);
 
-  printf("Digite a área (em km²)");
+  printf("Digite a área: (em km²)\n");
   scanf("%f", &area);
 
-  printf("Digite o PIB (em bilhões de reias)");
+  printf("Digite o PIB: (em bilhões de reias)\n");
   scanf("%f", &pib);
 
-  printf("Digite o números de pontos turísticos: ");
+  printf("Digite o números de pontos turísticos: \n");
   scanf("%d" , &numerosdepontosturisticos);
+
+  
 
 // B
 // A01
