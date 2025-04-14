@@ -25,6 +25,7 @@ int main(){
   printf("Digite o estado ");
   scanf("%s", &estado);
 
+  printf("Digite o código: ");
   
 
 
