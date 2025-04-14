@@ -49,9 +49,9 @@ int main(){
   printf("Estado: %d\n", estado);
   printf("Código: %s\n", codigo);
   printf("Nome Da Cidade: %s\n", nomedacidade);
-  printf("População: %d\n");
-  printf("Àrea: %f\n (em km²)");
-  printf("PiB: %f\n (em bilhões de reais)");
+  printf("População: %d\n", populacao);
+  printf("Àrea: %.2f km²\n", area);
+  printf("PiB: %.2f (em bilhões de reais)");
   printf("Números de Pontos Tuísticos: %d\n");
 
 
