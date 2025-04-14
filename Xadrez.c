@@ -101,7 +101,13 @@ return 0;
     scanf("%d", &populacao);
 
     printf("Digite a área: ");
-    scanf("%f",      ;
+    scanf("%f", &area);
+
+    printf("Digite o PIB: ");
+    scanf("%f", &pib);
+
+    printf("Digite o números e pontos turísticos:);
+    scanf("%d", &nmorsdepontosturisticos);
 
 
 
