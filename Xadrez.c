@@ -10,7 +10,12 @@ int main()[
 
   //Declarando Variáveis
 
-  char 
+  char carta2;
+  char estado;
+  char codigo;
+  char nomedacidade;
+  int População;
+  
 
 
 
@@ -28,6 +33,6 @@ int main()[
 
 
 
-
+return 0;
 
 ]
