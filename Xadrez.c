@@ -57,7 +57,6 @@ int main(){
   printf("Números de Pontos Tuísticos: %d\n", numerosdepontosturisticos);
 
 
-
 // B
 // A01
 // Salvador
