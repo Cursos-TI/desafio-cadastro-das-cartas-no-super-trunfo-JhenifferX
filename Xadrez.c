@@ -46,9 +46,11 @@ int main(){
   printf("Digite o números de pontos turísticos: \n");
   scanf("%d" , &numerosdepontosturisticos);
 
-  printf("Estado: %d")
-  printf("Código: %s")
-  
+  printf("Estado: %d");
+  printf("Código: %s");
+  printf("Nome Da Cidade: %s");
+  printf("População: %d");
+
 
 // B
 // A01
