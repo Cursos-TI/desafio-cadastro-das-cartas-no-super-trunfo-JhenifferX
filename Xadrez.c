@@ -22,7 +22,7 @@ int main(){
 
   // Inicializando as variáveis
 
-  printf("Digite o estado ");
+  printf("Digite o estado: ");
   scanf("%s", &estado);
 
 
