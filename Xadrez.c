@@ -49,7 +49,7 @@ int main(){
   // Exibindo os dados fornecidos
 
   printf("Carta1: %s\n", carta1);
-  printf("Estado: %d\n", estado);
+  printf("Estado: %s\n", estado);
   printf("Código: %s\n", codigo);
   printf("Nome Da Cidade: %s\n", nomedacidade);
   printf("População: %d\n", populacao);
