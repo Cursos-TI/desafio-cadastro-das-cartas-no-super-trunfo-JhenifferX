@@ -38,6 +38,8 @@ int main(){
   scanf("%f", &area);
 
   printf("Digite o PIB (em bilhões de reias)");
+  scanf("%f", &pib);
+
   
 
 
