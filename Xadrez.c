@@ -24,11 +24,11 @@ int main(){
 
   printf("Digite o estado ");
   scanf("%s", &estado);
-  // Resposta - B
+
 
   printf("Digite o código: ");
   scanf("%s", &codigo);
-  // Resposta - A01
+  
 
   printf("Digite o nome da cidade: ");
   scanf("%s", &nomedacidade);
