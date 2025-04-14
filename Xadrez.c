@@ -47,6 +47,8 @@ int main(){
   scanf("%d" , &numerosdepontosturisticos);
 
   printf("Estado: %d")
+  printf("Código: %s")
+  
 
 // B
 // A01
