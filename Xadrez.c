@@ -84,7 +84,7 @@ return 0;
     int populacao;
     float area;
     float pib;
-    int umerodeponstosturisticos;
+    int numerosdepontosturisticos;
 
     //Inicializando as variáveis
 
