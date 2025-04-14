@@ -48,7 +48,7 @@ int main(){
 
   // Exibindo os dados fornecidos
 
-  printf("Carta1: %d\n", carta1);
+  printf("Carta1: %s\n", carta1);
   printf("Estado: %d\n", estado);
   printf("Código: %s\n", codigo);
   printf("Nome Da Cidade: %s\n", nomedacidade);
