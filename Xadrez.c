@@ -75,5 +75,13 @@ return 0;
 
 #include <stdio.h>() {
 
-    
-}
+    // Declarando Variáveis
+
+    char carta2[10];
+    char estado[20];
+    char codigo[10];
+    char nomedacidade[50];
+    int populacao;
+    float area;
+    float pib;
+    int umerodeponstosturisticos;
