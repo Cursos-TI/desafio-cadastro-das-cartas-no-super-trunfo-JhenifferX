@@ -40,6 +40,7 @@ int main(){
   printf("Digite o PIB (em bilhões de reias)");
   scanf("%f", &pib);
 
+  printf("Digite o números de pontos turísticos: ");
   
 
 
