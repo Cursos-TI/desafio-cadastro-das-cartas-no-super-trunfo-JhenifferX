@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-int main()[
+int main(){
 
   //Declarando Variáveis
 
@@ -17,7 +17,9 @@ int main()[
   int População;
   float area;
   float pib;
-  
+  int numerosdepontosturisticos;
+
+
 
 
 
@@ -37,4 +39,4 @@ int main()[
 
 return 0;
 
-]
+}
