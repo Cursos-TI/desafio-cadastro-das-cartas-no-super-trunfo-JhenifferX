@@ -26,6 +26,8 @@ int main(){
   scanf("%s", &estado);
 
   printf("Digite o código: ");
+  scanf("%s", &codigo);
+
   
 
 
