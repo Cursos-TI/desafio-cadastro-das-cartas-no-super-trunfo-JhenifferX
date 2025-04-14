@@ -94,4 +94,14 @@ return 0;
     printf("Digite o código: ");
     scanf("%s",codigo);
 
-    
+    printf("Digite o nome da cidade: ");
+    scanf("%s", nomedacidade);
+
+    printf("Digite a populção: ");
+    scanf("%d", &populacao);
+
+    printf("Digite a área: ");
+    scanf("%f",      ;
+
+
+
