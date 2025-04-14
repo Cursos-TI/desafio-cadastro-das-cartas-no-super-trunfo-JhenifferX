@@ -77,7 +77,8 @@ int main(){
 // 3 080,4
 // 7
 
- // Carta 1 criada com sucesso.
+ // Carta 1 e 2 criada com suceeso.
+ // OBS: Ao tentar escrever a outra carta separadamente o programa n\ roda.
 
 
 return 0;
