@@ -37,6 +37,7 @@ int main(){
   printf("Digite a área (em km²)");
   scanf("%f", &area);
 
+  printf("Digite o PIB (em bilhões de reias)");
   
 
 
