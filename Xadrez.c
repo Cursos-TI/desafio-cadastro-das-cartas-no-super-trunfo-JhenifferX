@@ -47,7 +47,7 @@ int main(){
   scanf("%d" , &numerosdepontosturisticos);
 
   printf("Estado: %d\n", estado);
-  printf("Código: %s\n");
+  printf("Código: %s\n", codigo);
   printf("Nome Da Cidade: %s\n");
   printf("População: %d\n");
   printf("Àrea: %f\n (em km²)");
