@@ -41,28 +41,11 @@ int main(){
   scanf("%f", &pib);
 
   printf("Digite o números de pontos turísticos: ");
-  
+  scanf("%d" , &numerosdepontosturisticos);
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-return 0;
 
 }
