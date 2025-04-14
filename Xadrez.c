@@ -37,22 +37,22 @@ int main(){
   printf("Digite a população: \n");
   scanf("%d", &populacao);
 
-  printf("Digite a área: (em km²)\n");
+  printf("Digite a área: \n");
   scanf("%f", &area);
 
-  printf("Digite o PIB: (em bilhões de reias)\n");
+  printf("Digite o PIB: )\n");
   scanf("%f", &pib);
 
   printf("Digite o números de pontos turísticos: \n");
   scanf("%d" , &numerosdepontosturisticos);
 
-  printf("Estado: %d");
-  printf("Código: %s");
-  printf("Nome Da Cidade: %s");
-  printf("População: %d");
-  printf("Àrea: %f (em km²)");
-  printf("PiB: %f (em bilhões de reais)");
-  printf("Números de Pontos Tuísticos: %d");
+  printf("Estado: %d\n");
+  printf("Código: %s\n");
+  printf("Nome Da Cidade: %s\n");
+  printf("População: %d\n");
+  printf("Àrea: %f\n (em km²)");
+  printf("PiB: %f\n (em bilhões de reais)");
+  printf("Números de Pontos Tuísticos: %d\n");
 
 
 
