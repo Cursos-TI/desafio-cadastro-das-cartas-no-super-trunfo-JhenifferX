@@ -85,3 +85,10 @@ return 0;
     float area;
     float pib;
     int umerodeponstosturisticos;
+
+    //Inicializando as variáveis
+
+    printf("difite os estado: ");
+    scanf("%s", estado);
+
+    
