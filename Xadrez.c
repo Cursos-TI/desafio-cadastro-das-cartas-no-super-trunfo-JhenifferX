@@ -20,6 +20,12 @@ int main(){
   int numerosdepontosturisticos;
 
 
+  // Inicializando as variáveis
+
+  print("Digite o estado ");
+  
+
+
 
 
 
