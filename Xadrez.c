@@ -29,6 +29,8 @@ int main(){
   scanf("%s", &codigo);
 
   printf("Digite o nome da cidade: ");
+  scanf("%s", &nomedacidade: );
+
   
 
 
