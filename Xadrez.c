@@ -88,7 +88,7 @@ return 0;
 
     //Inicializando as variáveis
 
-    printf("Dgte os estado: ");
+    printf("Digite o estado ");
     scanf("%s", estado);
 
     printf("Digite o código: ");
