@@ -66,6 +66,8 @@ int main(){
 // 115.9
 // 13
 
+ // Carta 1 criada com sucesso.
+
 
 return 0;
 
