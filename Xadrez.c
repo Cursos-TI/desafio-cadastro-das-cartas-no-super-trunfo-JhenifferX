@@ -106,8 +106,10 @@ return 0;
     printf("Digite o PIB: ");
     scanf("%f", &pib);
 
-    printf("Digite o números e pontos turísticos:);
-    scanf("%d", &nmorsdepontosturisticos);
+    printf("Digite o número de pontos turisticos);
+    scanf("%d", &numerosdeponstosturisticos);
+
+
 
 
 
