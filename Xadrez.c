@@ -28,6 +28,7 @@ int main(){
   printf("Digite o código: ");
   scanf("%s", &codigo);
 
+  printf("Digite o nome da cidade: ");
   
 
 
