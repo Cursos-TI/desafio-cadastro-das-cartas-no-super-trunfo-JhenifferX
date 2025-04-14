@@ -4,3 +4,30 @@
 
 //Instruções
 
+#include <stdio.h>
+
+int main()[
+
+  //Declarando Variáveis
+
+  char 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
