@@ -46,13 +46,15 @@ int main(){
   printf("Digite o números de pontos turísticos: ");
   scanf("%d" , &numerosdepontosturisticos);
 
+  // Exibindo os dados fornecidos
+
   printf("Estado: %d\n", estado);
   printf("Código: %s\n", codigo);
   printf("Nome Da Cidade: %s\n", nomedacidade);
   printf("População: %d\n", populacao);
   printf("Àrea: %.2f km²\n", area);
-  printf("PiB: %.2f (em bilhões de reais)");
-  printf("Números de Pontos Tuísticos: %d\n");
+  printf("PiB: %.2f bilhões de reais\n", pib);
+  printf("Números de Pontos Tuísticos: %d\n", numerosdepontosturisticos);
 
 
 
