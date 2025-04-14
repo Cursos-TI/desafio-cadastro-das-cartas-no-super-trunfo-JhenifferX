@@ -91,7 +91,7 @@ int main(){
 
   //Declarando Variáveis
 
-  char carta1[10];
+  char carta2[10];
   char estado[20];
   char codigo[10];
   char nomedacidade[50];
@@ -129,7 +129,7 @@ int main(){
 
   // Exibindo os dados fornecidos
 
-  printf("Carta1: %s\n", carta1);
+  printf("Carta1: %s\n", carta2);
   printf("Estado: %s\n", estado);
   printf("Código: %s\n", codigo);
   printf("Nome Da Cidade: %s\n", nomedacidade);
