@@ -10,7 +10,7 @@ int main(){
 
   //Declarando Variáveis
 
-  char carta2;
+  char carta1;
   char estado;
   char codigo;
   char nomedacidade;
@@ -46,7 +46,7 @@ int main(){
   printf("Digite o números de pontos turísticos: \n");
   scanf("%d" , &numerosdepontosturisticos);
 
-  
+  printf("Estado: %d")
 
 // B
 // A01
