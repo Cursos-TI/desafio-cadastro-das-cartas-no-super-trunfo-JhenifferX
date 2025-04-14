@@ -10,10 +10,10 @@ int main(){
 
   //Declarando Variáveis
 
-  char carta1;
-  char estado;
-  char codigo;
-  char nomedacidade;
+  char carta1[10];
+  char estado[20];
+  char codigo[10];
+  char nomedacidade[50];
   int populacao;
   float area;
   float pib;
@@ -22,28 +22,28 @@ int main(){
 
   // Inicializando as variáveis
 
-  printf("Digite o estado: \n");
+  printf("Digite o estado: ");
   scanf("%s", &estado);
 
 
-  printf("Digite o código: \n");
+  printf("Digite o código: ");
   scanf("%s", &codigo);
   
 
-  printf("Digite o nome da cidade: \n");
+  printf("Digite o nome da cidade: ");
   scanf("%s", &nomedacidade);
 
 
-  printf("Digite a população: \n");
+  printf("Digite a população: ");
   scanf("%d", &populacao);
 
-  printf("Digite a área: \n");
+  printf("Digite a área: ");
   scanf("%f", &area);
 
-  printf("Digite o PIB: )\n");
+  printf("Digite o PIB: ");
   scanf("%f", &pib);
 
-  printf("Digite o números de pontos turísticos: \n");
+  printf("Digite o números de pontos turísticos: ");
   scanf("%d" , &numerosdepontosturisticos);
 
   printf("Estado: %d\n");
