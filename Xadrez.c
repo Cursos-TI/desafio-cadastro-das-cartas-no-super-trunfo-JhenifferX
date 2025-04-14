@@ -32,7 +32,10 @@ int main(){
   scanf("%s", &nomedacidade: );
 
   printf("Digite a população: ");
+  scanf("%d", &população);
+
   
+
 
 
 
