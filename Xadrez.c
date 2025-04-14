@@ -15,6 +15,8 @@ int main()[
   char codigo;
   char nomedacidade;
   int População;
+  float area;
+  float pib;
   
 
 
