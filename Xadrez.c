@@ -51,6 +51,7 @@ int main(){
   printf("Nome Da Cidade: %s");
   printf("População: %d");
   printf("Àrea: %f (em km²)");
+  printf("PiB: %f (em bilhõrd fr reais)");
   
 
 
