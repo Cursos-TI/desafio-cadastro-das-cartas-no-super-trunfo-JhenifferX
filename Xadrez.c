@@ -50,6 +50,8 @@ int main(){
   printf("Código: %s");
   printf("Nome Da Cidade: %s");
   printf("População: %d");
+  printf("Àrea: %f (em km²)");
+  
 
 
 // B
