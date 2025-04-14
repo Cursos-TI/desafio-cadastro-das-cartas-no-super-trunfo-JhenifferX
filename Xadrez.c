@@ -32,7 +32,7 @@ int main(){
 
   printf("Digite o nome da cidade: ");
   scanf("%s", &nomedacidade);
-  
+
 
   printf("Digite a população: ");
   scanf("%d", &populacao);
@@ -46,7 +46,13 @@ int main(){
   printf("Digite o números de pontos turísticos: ");
   scanf("%d" , &numerosdepontosturisticos);
 
-
+// B
+// A01
+// Salvador
+// 14850513
+//559.957
+// 115.9
+// 13
 
 
 return 0;
